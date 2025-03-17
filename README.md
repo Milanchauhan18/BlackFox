@@ -35,6 +35,9 @@ This is an e-commerce website built specifically for the brand Black Fox. The si
 4. **Firebase:** Used as the database to store product data, manage user authentication, and facilitate real-time data interactions.
 
 ---
-## **Website Link**
+## **🔗Website Link**
 
 **visit :-**  https://milanchauhan18.github.io/BlackFox/
+
+## **💼 LinkedIn Profile**
+**visit :-**  https://www.linkedin.com/in/milan-chauhan-913796344/
