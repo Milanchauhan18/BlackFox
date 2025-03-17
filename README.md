@@ -37,4 +37,4 @@ This is an e-commerce website built specifically for the brand Black Fox. The si
 ---
 ## **Website Link**
 
-**visit :-**  https://divyeshjethava.github.io/Blackfox-E-Commerce-Website/home.html
+**visit :-**  https://milanchauhan18.github.io/BlackFox/
