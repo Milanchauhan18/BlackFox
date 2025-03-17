@@ -38,7 +38,3 @@ This is an e-commerce website built specifically for the brand Black Fox. The si
 ## **Website Link**
 
 **visit :-**  https://divyeshjethava.github.io/Blackfox-E-Commerce-Website/home.html
-
-If you want Admin site of above website then visit below Link
-
-**Visit : -** https://github.com/divyeshjethava/Blackfox-Admin
